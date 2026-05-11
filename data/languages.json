@@ -1,0 +1,47 @@
+[
+  {
+    "id": "lang-bn-bd",
+    "name": "বাংলা (বাংলাদেশ)",
+    "code": "bn-BD",
+    "nativeName": "বাংলা",
+    "enabled": true,
+    "direction": "ltr",
+    "isDefault": true
+  },
+  {
+    "id": "lang-bn-in",
+    "name": "বাংলা (ভারত)",
+    "code": "bn-IN",
+    "nativeName": "বাংলা",
+    "enabled": true,
+    "direction": "ltr",
+    "isDefault": false
+  },
+  {
+    "id": "lang-en-us",
+    "name": "English (US)",
+    "code": "en-US",
+    "nativeName": "English",
+    "enabled": true,
+    "direction": "ltr",
+    "isDefault": false
+  },
+  {
+    "id": "lang-en-gb",
+    "name": "English (UK)",
+    "code": "en-GB",
+    "nativeName": "English",
+    "enabled": false,
+    "direction": "ltr",
+    "isDefault": false
+  },
+  {
+    "id": "lang-hi-in",
+    "name": "হিন্দি (ভারত)",
+    "code": "hi-IN",
+    "nativeName": "हिन्दी",
+    "enabled": false,
+    "direction": "ltr",
+    "isDefault": false
+  }
+]
